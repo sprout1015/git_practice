@@ -1,3 +1,10 @@
 # git_practice
 
-일부 수정
+# 부 수정
+# 부 수정 # git_practice
+
+# 부 수정
+# 부 수정 # git_practice
+
+# 부 수정
+# 부 수정 
